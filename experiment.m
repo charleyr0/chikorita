@@ -2,6 +2,6 @@ dataFolderName = 'data';
 
 if ~isfolder(dataFolderName)
     mkdir(dataFolderName);
-    disp('hi');
+    disp('changed on laptop');
 end
 
